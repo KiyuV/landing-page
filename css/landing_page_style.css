@@ -147,8 +147,37 @@ button {
     font-size: 24px;
     font-weight: 700;
     justify-content: flex-end;
-    margin-right: 125px;
+    margin-right: 50px;
  }
+
+ .section-4 {
+    padding: 6em 0px;
+ }
+
+ .section-4-1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px 30vw;
+    background-color: #3882F6;
+    color: #E5E7EB;
+    border-radius: 8px;
+    padding: 16px 0px;
+ }
+ 
+ h3 {
+    font-weight: 700;
+ }
+
+#text-bottom{
+    font-weight: 400;
+    margin-top: -16px;
+}
+
+#sign-bottom {
+    border: 2px solid #E5E7EB;
+}
+
 .footer {
     background-color: #1F2937;
     padding: 32px 0px;
